@@ -4,6 +4,7 @@ import bordercollie from './media/borderCollie.jpg'
 import rhodesian from './media/rhodesian.jpg'
 
 // CLASE VIDEO 22 DE SEPTIEMBRE --> INICIANDO MANEJO DE REACTJS
+// CLASE VIDEO 22 DE SEPTIEMBRE --> INICIANDO MANEJO DE REACTJS
 function App() {
   return (
     <div className="App">
